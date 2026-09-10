@@ -1,0 +1,10 @@
+{
+  "chat.mcp.serverSampling": {
+    "hackathon/.vscode/mcp.json: Arcjet": {
+      "allowedModels": [
+        "copilot/auto",
+        "copilotcli/auto"
+      ]
+    }
+  }
+}
